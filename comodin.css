@@ -1,0 +1,5 @@
+.carrusel{position: absolute;
+    top: 0;
+    width: 1240px;
+    height: 400px ;
+    object-fit: cover;}

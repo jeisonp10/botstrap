@@ -1,0 +1,22 @@
+.container{
+
+    align-items: center;
+    justify-content: center;
+    font-family:verdana;
+   
+    color:rgb(77, 92, 97);
+
+    
+    border-style: solid;
+background-color: rgb(163, 214, 196);
+
+}
+.kolor{
+
+background-color: rgb(119, 171, 175);
+
+}
+.kolorfor{
+
+    background-color: rgb(133, 145, 145);
+}

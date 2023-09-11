@@ -1,0 +1,86 @@
+.encabezado{display: grid;
+grid-template-columns: 300px 850px 100px;
+}
+.links{
+background-color: rgb(34, 174, 116);color: black;
+padding-right: 30px;padding-left: 30px;
+font-size: 20px;
+border-style: solid;
+}
+
+
+.vermas{
+    background-color: rgb(153, 174, 34);color: black;
+    padding-right: 30px;padding-left: 30px;
+    font-size: 20px;}
+
+    .misionyvision{   
+display: grid;grid-template-columns: 600px 650px;
+font-family:verdana;
+font-size:20px;
+color:rgb(5, 58, 7);
+ }
+
+.bordevision{
+border-style: solid;
+background-color: rgb(163, 214, 196);
+}
+.bordemision{
+    background-color: rgb(163, 214, 196);
+border-style: solid;
+}
+
+
+
+.links:hover{background-color: rgb(170, 205, 209) ;}
+
+
+.enlaces{   
+    display: flex;
+    justify-content: flex-end;
+
+}
+.sesionuno{
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url(fondoazul.jpg);height: 600px
+
+}
+.sesiondos{
+    background-image: url(fondosesion.jpg);
+
+    display: grid;
+    grid-template-columns: 250px 310px 250px 250px 300px; 
+}
+
+.sesiontres{
+    background-image: url(fondosesion.jpg);
+
+    display: grid;
+    grid-template-columns: 300px 300px 250px 250px; 
+}
+
+.sesioncuatro{
+    background-image: url(fondosesion.jpg);
+
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px 250px; 
+}
+
+.np{background-color: aqua;}
+.nr{background-color: aqua;}
+.na{background-color: aqua;}
+.noti{background-color: aqua;}
+
+.sesioncontacto{
+    font-family:verdana;
+
+}
+    
+.noticias{
+display: grid;grid-template-columns: auto auto;
+
+}
+
